@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Micro13</string>
+    <string name="title_activity_modal">ModalActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="initial_message">First History: Sushil is a marketing manager, he mailed to the employees about the office culture. The employee who go last in office should switch off the fan and light, also check anybody other in the office, if somebody is there inform same to them.</string>
+    <string name="second_message">Second History: The train pulled away just after Todd stepped onto it. He was traveling to Chicago for a business meeting. The meeting was on Thursday and he wanted to explore the city for a few days before th meeting. He pulled out his travel map and started to make plans.</string>
+    <string name="third_message">Thirst History: Lexie jumped into the wave and was immediately immersed in the water. She stood up and came out of the water. "I love the water, I love the waves and I love the sand," she said, her family was visiting the beach for 1 whole week and this was their first day.</string>
+
+    <!--    <string-array name="stories">-->
+    <!--        <item>First History: Sushil is a marketing manager, he mailed to the employees about the office culture. The employee who go last in office should switch off the fan and light, also check anybody other in the office, if somebody is there inform same to them.</item>-->
+    <!--        <item>Second History: The train pulled away just after Todd stepped onto it. He was traveling to Chicago for a business meeting. The meeting was on Thursday and he wanted to explore the city for a few days before th meeting. He pulled out his travel map and started to make plans.</item>-->
+    <!--        <item>Thirst History: Lexie jumped into the wave and was immediately immersed in the water. She stood up and came out of the water. "I love the water, I love the waves and I love the sand," she said, her family was visiting the beach for 1 whole week and this was their first day.</item>-->
+    <!--    </string-array>-->
+
+
+</resources>
